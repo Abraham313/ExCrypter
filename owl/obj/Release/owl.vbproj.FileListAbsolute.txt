@@ -1,0 +1,8 @@
+D:\Тесты\VisualStudio\Metro Crypt\owl\bin\Release\owl.exe
+D:\Тесты\VisualStudio\Metro Crypt\owl\bin\Release\owl.pdb
+D:\Тесты\VisualStudio\Metro Crypt\owl\bin\Release\owl.xml
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Release\owl.Resources.resources
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Release\owl.vbproj.GenerateResource.Cache
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Release\owl.exe
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Release\owl.xml
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Release\owl.pdb

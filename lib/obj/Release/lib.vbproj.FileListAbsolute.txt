@@ -1,0 +1,9 @@
+D:\Тесты\VisualStudio\Metro Crypt\lib\bin\Release\lib.dll
+D:\Тесты\VisualStudio\Metro Crypt\lib\bin\Release\lib.pdb
+D:\Тесты\VisualStudio\Metro Crypt\lib\bin\Release\lib.xml
+D:\Тесты\VisualStudio\Metro Crypt\lib\obj\Release\lib.vbprojResolveAssemblyReference.cache
+D:\Тесты\VisualStudio\Metro Crypt\lib\obj\Release\lib.Resources.resources
+D:\Тесты\VisualStudio\Metro Crypt\lib\obj\Release\lib.vbproj.GenerateResource.Cache
+D:\Тесты\VisualStudio\Metro Crypt\lib\obj\Release\lib.dll
+D:\Тесты\VisualStudio\Metro Crypt\lib\obj\Release\lib.xml
+D:\Тесты\VisualStudio\Metro Crypt\lib\obj\Release\lib.pdb

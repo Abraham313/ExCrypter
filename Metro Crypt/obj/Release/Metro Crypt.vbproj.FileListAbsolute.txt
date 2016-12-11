@@ -1,0 +1,16 @@
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Release\Metro_Crypt.Form1.resources
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Release\Metro_Crypt.Resources.resources
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Release\Metro Crypt.vbproj.GenerateResource.Cache
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Release\Metro Crypt.vbprojResolveAssemblyReference.cache
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Release\Metro_Crypt.Form2.resources
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\bin\Release\Ex Cryptor v2.1.exe.config
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\bin\Release\Ex Cryptor v2.1.exe
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\bin\Release\Ex Cryptor v2.1.pdb
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\bin\Release\Ex Cryptor v2.1.xml
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Release\Ex Cryptor v2.1.exe
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Release\Ex Cryptor v2.1.xml
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Release\Ex Cryptor v2.1.pdb
+D:\Загрузки\Source\Metro Crypt\bin\Release\Ex Cryptor v2.1.exe.config
+D:\Загрузки\Source\Metro Crypt\obj\Release\Ex Cryptor v2.1.exe
+D:\Загрузки\Source\Metro Crypt\obj\Release\Ex Cryptor v2.1.xml
+D:\Загрузки\Source\Metro Crypt\obj\Release\Ex Cryptor v2.1.pdb

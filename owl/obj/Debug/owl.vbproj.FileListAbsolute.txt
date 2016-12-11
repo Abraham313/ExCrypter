@@ -1,0 +1,9 @@
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Debug\owl.vbprojResolveAssemblyReference.cache
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Debug\owl.Resources.resources
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Debug\owl.vbproj.GenerateResource.Cache
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Debug\owl.xml
+D:\Тесты\VisualStudio\Metro Crypt\owl\bin\Debug\owl.exe
+D:\Тесты\VisualStudio\Metro Crypt\owl\bin\Debug\owl.pdb
+D:\Тесты\VisualStudio\Metro Crypt\owl\bin\Debug\owl.xml
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Debug\owl.exe
+D:\Тесты\VisualStudio\Metro Crypt\owl\obj\Debug\owl.pdb

@@ -1,0 +1,12 @@
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Debug\Metro Crypt.vbprojResolveAssemblyReference.cache
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Debug\Metro_Crypt.Form1.resources
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Debug\Metro_Crypt.Resources.resources
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Debug\Metro Crypt.vbproj.GenerateResource.Cache
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Debug\Metro_Crypt.Form2.resources
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\bin\Debug\Ex Cryptor v2.0.exe.config
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\bin\Debug\Ex Cryptor v2.0.exe
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\bin\Debug\Ex Cryptor v2.0.pdb
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\bin\Debug\Ex Cryptor v2.0.xml
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Debug\Ex Cryptor v2.0.exe
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Debug\Ex Cryptor v2.0.xml
+D:\Тесты\VisualStudio\Metro Crypt\Metro Crypt\obj\Debug\Ex Cryptor v2.0.pdb
